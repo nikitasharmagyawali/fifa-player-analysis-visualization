@@ -68,9 +68,3 @@ Both Python and Orange produced structurally similar cluster separations and out
 - Tableau (visual exploration)
 
 ---
-
-
-## Notes
-
-Raw FIFA data is not included in this repository.
-Place dataset inside `/data` if reproducing analysis.
